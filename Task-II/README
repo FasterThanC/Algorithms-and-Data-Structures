@@ -1,1 +1,1 @@
-p
+The Task - Go around N*N square (chess board) with horse movements. The user specifies the size of the square - N. The program displays the order in which the horse moves around the board, the dimensions of which are NxN.
