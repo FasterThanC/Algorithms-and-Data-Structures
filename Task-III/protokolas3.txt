@@ -1,0 +1,386 @@
+PIRMA DALIS. Duomenys
+  1) Vadim Ceremisinov, 4 grupe 1 pogrupis, 3 uzdavinis 4 variantas.
+  2) Uzduotis - Aerouostas (ADT: prioritetine eile, ilgas sveikas skaicius).
+  3) Programos tikslas patyrineti prie kokio apkrovimo aerouostui pakanka vieno tako.
+  4) Nusileidimo laikas: 70 min.
+  5) Pakilimo laikas: 30 min.
+  4) Norincio leistis lektuvo laikas, kuri dar gali isbuti ore: 100 min.
+  4) Lektuvo panorusio kilti/leistis einamuoju momentu tikimybe: 20%.
+  5) Is viso trukme: 1440 min (1 diena).
+
+ANTRA DALIS. Vykdymas
+  T = 0
+   1) Laukia nusileidimo naujas lektuvas.
+
+  T = 1
+   1) Laukiantis lektuvas pradejo kilti po 1 min laukimo.
+
+  T = 2
+   1) Laukia nusileidimo naujas lektuvas.
+
+  T = 3
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 99 min.
+
+  T = 4
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 98 min.
+
+  T = 5
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 97 min.
+
+  T = 6
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 96 min.
+
+  T = 7
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 95 min.
+
+  T = 8
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 94 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 9
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 99 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 10
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 98 min.
+
+  T = 11
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 97 min.
+
+  T = 12
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 96 min.
+
+  T = 13
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 95 min.
+
+  T = 14
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 94 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 15
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 93 min.
+
+  T = 16
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 92 min.
+
+  T = 17
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 91 min.
+
+  T = 18
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 90 min.
+
+  T = 19
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 89 min.
+
+  T = 20
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 88 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 21
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 87 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 22
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 86 min.
+
+  T = 23
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 85 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 24
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 84 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 25
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 83 min.
+
+  T = 26
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 82 min.
+
+  T = 27
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 81 min.
+
+  T = 28
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 80 min.
+
+  T = 29
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 79 min.
+
+  T = 30
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 78 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 31
+   1) Laukiantis lektuvas pradejo leistis po 23 min laukimo.
+
+  T = 32
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 91 min.
+
+  T = 33
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 90 min.
+
+  T = 34
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 89 min.
+
+  T = 35
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 88 min.
+
+  T = 36
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 87 min.
+
+  T = 37
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 86 min.
+
+  T = 38
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 85 min.
+
+  T = 39
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 84 min.
+
+  T = 40
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 83 min.
+
+  T = 41
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 82 min.
+
+  T = 42
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 81 min.
+
+  T = 43
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 80 min.
+
+  T = 44
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 79 min.
+
+  T = 45
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 78 min.
+
+  T = 46
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 77 min.
+
+  T = 47
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 76 min.
+
+  T = 48
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 75 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 49
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 74 min.
+
+  T = 50
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 73 min.
+
+  T = 51
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 72 min.
+
+  T = 52
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 71 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 53
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 70 min.
+
+  T = 54
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 69 min.
+
+  T = 55
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 68 min.
+
+  T = 56
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 67 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 57
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 66 min.
+
+  T = 58
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 65 min.
+
+  T = 59
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 64 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 60
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 63 min.
+
+  T = 61
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 62 min.
+
+  T = 62
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 61 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 63
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 60 min.
+
+  T = 64
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 59 min.
+
+  T = 65
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 58 min.
+
+  T = 66
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 57 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 67
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 56 min.
+
+  T = 68
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 55 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 69
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 54 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 70
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 53 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 71
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 52 min.
+
+  T = 72
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 51 min.
+
+  T = 73
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 50 min.
+
+  T = 74
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 49 min.
+
+  T = 75
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 48 min.
+
+  T = 76
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 47 min.
+
+  T = 77
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 46 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 78
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 45 min.
+
+  T = 79
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 44 min.
+
+  T = 80
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 43 min.
+
+  T = 81
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 42 min.
+
+  T = 82
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 41 min.
+
+  T = 83
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 40 min.
+
+  T = 84
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 39 min.
+
+  T = 85
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 38 min.
+
+  T = 86
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 37 min.
+
+  T = 87
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 36 min.
+
+  T = 88
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 35 min.
+
+  T = 89
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 34 min.
+
+  T = 90
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 33 min.
+
+  T = 91
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 32 min.
+
+  T = 92
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 31 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 93
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 30 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 94
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 29 min.
+
+  T = 95
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 28 min.
+
+  T = 96
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 27 min.
+
+  T = 97
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 26 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 98
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 25 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 99
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 24 min.
+
+  T = 100
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 23 min.
+
+  T = 101
+   1) Laukiantis lektuvas pradejo leistis po 78 min laukimo.
+
+  T = 102
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 96 min.
+
+  T = 103
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 95 min.
+
+  T = 104
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 94 min.
+
+  T = 105
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 93 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 106
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 92 min.
+
+  T = 107
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 91 min.
+
+  T = 108
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 90 min.
+
+  T = 109
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 89 min.
+   2) Laukia nusileidimo naujas lektuvas.
+
+  T = 110
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 88 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 111
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 87 min.
+   2) Laukia pakilimo naujas lektuvas. Gali buti ore 100 min.
+
+  T = 112
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 86 min.
+
+  T = 113
+   1) Pirmas luakiantis eileje lektuvas dar gali likti ore 85 min.
+   2) Suduzo lektuvas.
+
+TRECIA DALIS. Rezultatai
+  1) Lektuvas suduzo.
+  2) Vidutinis leidimosi laikas: 45 min.
+  3) Is viso leidosi laiko: 100 min.
+  4) Vidutinis kilimo laikas: 28 min.
+  5) Is viso kilo laiko: 111 min.

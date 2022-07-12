@@ -1,0 +1,81 @@
+PIRMA DALIS. Duomenys
+     Vadim Ceremisinov, 4 grupe 1 pogrupis, 3 uzdavinis 4 variantas.
+     Uzduotis - Aerouostas (ADT: prioritetine eile, ilgas sveikas skaicius).
+     Programos tikslas patyrineti prie kokio apkrovimo aerouostui pakanka vieno tako.
+     
+  1) Nusileidimo laikas: 1 min.
+  2) Pakilimo laikas: 1 min.
+  3) Norincio leistis lektuvo laikas, kuri dar gali isbuti ore: 3 min.
+  4) Lektuvo panorusio kilti/leistis einamuoju momentu tikimybe: 70%.
+  5) Is viso trukme: 1440 min (1 diena).
+
+ANTRA DALIS. Vykdymas
+  T = 0
+   Nera lektuvu norinciu leistis.
+   Nera lektuvu norinciu kilti.
+
+  T = 1
+   Lektuvai norintys leistis: L1.
+   Nera lektuvu norinciu kilti.
+   Lektuvas L1 pradeda leistis.
+
+  T = 2
+   Nera lektuvu norinciu leistis.
+   Nera lektuvu norinciu kilti.
+   Lektuvas L1 leidziasi, kol nusileis liko 1 min.
+
+  T = 3
+   Nera lektuvu norinciu leistis.
+   Nera lektuvu norinciu kilti.
+   Lektuvas L1 nusileido.
+
+  T = 4
+   Nera lektuvu norinciu leistis.
+   Lektuvai norintys kilti: K1.
+   Lektuvas K1 pradeda kilti.
+
+  T = 5
+   Nera lektuvu norinciu leistis.
+   Nera lektuvu norinciu kilti.
+   Lektuvas K1 pakilo.
+
+  T = 6
+   Nera lektuvu norinciu leistis.
+   Nera lektuvu norinciu kilti.
+
+  T = 7
+   Lektuvai norintys leistis: L2.
+   Lektuvai norintys kilti: K2.
+
+  T = 8
+   Lektuvas L2 leidziasi, kol nusileis liko 1 min.
+   Lektuvai norintys kilti: K2, K3.
+
+  T = 9
+   Lektuvai norintys leistis: L3.
+   K2 lektuvas kyla.
+   Lektuvai norintys kilti: K3.
+   Lektuvas L2 nusileido.
+
+  T = 10
+   Lektuvai norintys leistis: L3, L4.
+   K3 lektuvas kyla.
+   Lektuvas K2 pakilo.
+
+  T = 11
+   Lektuvai norintys leistis: L4.
+   L3 lektuvas leidziasi, kol nusileis lieka 1 min.
+
+  T = 12
+   Lektuvai norintys leistis: L4.
+   Lektuvai norintys kilti: K3, K4.
+   Lektuvas L4 suduzo.
+
+  
+
+TRECIA DALIS. Rezultatai
+  1) Lektuvas suduzo.
+  2) Vidutinis leidimosi laikas: 1 min.
+  3) Is viso leidosi laiko: 3 min.
+  4) Vidutinis kilimo laikas: 1 min.
+  5) Is viso kilo laiko: 2 min.

@@ -1,0 +1,5 @@
+3	//Nusileidimo laikas (min).
+2	//Pakilimo laikas (min).
+6	//Norincio leistis lektuvo laikas, kuri dar gali isbuti ore (min).
+25	//Lektuvo panorusio kilti/leistis einamuoju momentu tikimybe (%).
+1440	//Is viso trukme (min).
