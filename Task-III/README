@@ -1,1 +1,19 @@
+The task: Airport (ADT: priority queue, long integer).
+The airport has 1 runway, landing planes have priority, i.e. if the runway is free, the landing aircraft is received first, 
+but if some plane started to take off, then all other planes, including those that want to land, must wait, a plane that wants to land can't wait very long because it will run out of fuel.
+Purpose: to investigate at which load one runway is sufficient for the airport.
 
+Initial data:
+1) landing time (duration),
+2) takeoff time (duration),
+3) the amount of time the aircraft wanting to land can still be in the air,
+4) the probability that a plane wants to take off/land at the current moment (possible implementation: generating a random number and checking whether it satisfies a certain condition),
+5) landing and takeoff planes appear with equal probability.
+
+Results: 
+1) Plane Crashed (simulation ends immediately),
+2) the maximum and average waiting time for a plane that wants to land,
+3) maximum and average waiting time for a plane to take off.
+
+
+The detailed work of the algorithm of this program is represented in "protokolas.txt" files.
