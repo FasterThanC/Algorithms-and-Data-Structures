@@ -4,4 +4,4 @@ Find the cheapest travel route from one given city to another given city and its
 The price includes only the cost of driving on the road, in addition, the ownernship of a road gives a 50% discount. Assume the case that no such route exists. 
 (Graph realization is based on neighborhood lists.)
 
-
+The detailed work of the algorithm of this program is represented in "protokolas.txt" files.
