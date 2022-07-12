@@ -1,8 +1,0 @@
-make: priorityQueue.c funkcijos.c
-	gcc priorityQueue.c funkcijos.c -o make
-
-priorityQueue.c: priorityQueue.c
-	gcc -c priorityQueue.c
-
-funkcijos.c: funkcijos.c headers.h
-	gcc -c funkcijos.c
