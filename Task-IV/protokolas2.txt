@@ -1,0 +1,66 @@
+PIRMA DALIS. Duomenys
+
+ 1) Uzduotis: ADS Nr.4, 4 variantas
+ 2) Studentas - Vadim Ceremisinov, 4 grupe, 1 pogrupis.
+ 3) LSP Nr. 2110545 
+ 4) Programos tikslas - rasti pigiausia keliones is vieno duoto miesto i kita duota miesta marsruta ir jo kaina
+     (Grafo realizacija gridnziama kaimynystes sarasais)
+  5) Virsuniu skaicius: 9
+  6) Pradzios miestas: A
+  7) Keliones tikslas: B
+  8) Vaziuojantis zmogus: v
+
+//Grafas
+C----D---G---E   
+|    |       |\
+|    |       | \
+|    |       |  \   
+A    B---H---K   F
+
+ANTRA DALIS. Vykdymas
+
+Momentas 0
+    Atidaryta: A
+    Uzdaryta: C(60) 
+    Trumpiausias kelias nerastas.
+
+Momentas 1
+    Atidaryta: C
+    Uzdaryta: D(70) 
+    Trumpiausias kelias nerastas.
+
+Momentas 2
+    Atidaryta: D
+    Uzdaryta: G(90) B(190) 
+    Rastas kelias i miesta B kaina 190 Eur.
+
+Momentas 3
+    Atidaryta: G
+    Uzdaryta: E(110) 
+    Rastas kelias i miesta B kaina 190 Eur.
+
+Momentas 4
+    Atidaryta: E
+    Uzdaryta: F(130) K(140) 
+    Rastas kelias i miesta B kaina 190 Eur.
+
+Momentas 5
+    Atidaryta: F
+    Uzdarytu virsuniu nera.
+    Rastas kelias i miesta B kaina 190 Eur.
+
+Momentas 6
+    Atidaryta: K
+    Uzdaryta: H(160) 
+    Rastas kelias i miesta B kaina 190 Eur.
+
+Momentas 7
+    Atidaryta: H
+    Uzdarytu virsuniu nera.
+    Rastas kelias i miesta B kaina 190 Eur.
+
+
+TRECIA DALIS. Rezultatai
+
+  1. Pigiausias kelias: A, C, D, G, E, K, H, B.
+  2. Keliones kaina i miesta B yra 190 Eur.

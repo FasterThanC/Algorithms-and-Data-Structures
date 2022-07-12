@@ -1,0 +1,21 @@
+5 //Grafo virsuniu skaicius
+A //Miestas is kurio isvykstama
+E //Miestas i kuri atvykstama
+v //Savininkas
+
+Kaimynystes sarasas
+A - B - 30 - u
+A - D - 51 - w
+D - E -  1 - x
+E - C - 10 - y
+C - B - 20 - z
+
+
+Grafas:
+  51     1
+A-----D----E  
+|          |    
+| 30       | 10 
+|          |     
+B----------C
+     20

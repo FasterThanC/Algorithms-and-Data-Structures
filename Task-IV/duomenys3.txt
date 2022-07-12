@@ -1,0 +1,22 @@
+6 //grafo virsunes
+A //miestas is kurio isvykstama
+B //miestas i kuri atvykstama
+v //savininkas
+
+//Kaiminystes sarasas
+A - C - 40 - u
+A - D - 20 - w
+D - E - 10 - x
+E - F - 20 - y
+F - B - 20 - z
+C - B - 50 - v
+
+
+Grafas:
+  20    10
+A-----D----E  
+|          |    
+| 40       | 20  
+|          |     
+C-----B----F
+  50    20

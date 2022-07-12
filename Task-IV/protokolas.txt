@@ -1,0 +1,47 @@
+PIRMA DALIS. Duomenys
+
+ 1) Uzduotis: ADS Nr.4, 4 variantas
+ 2) Studentas - Vadim Ceremisinov, 4 grupe, 1 pogrupis.
+ 3) Programos salyga - Duotas keliu sarasas: miestas, miestas, kelio savininkas ir kaina. 
+ Rasti pigiausia keliones is vieno duoto miesto i kita duota miesta marsruta ir jo kaina. 
+Kaina sudaro tik vaziavimo keliu kaina, be to, savinikas duoda 50 % nuolaida, jei atvaziuota jam priklausanciu keliu.
+Numatyti atveji, kad toks marsrutas neegzistuoja. (Grafo realizacija grindziama kaiminystes sarasais.)
+  4) Virsuniu skaicius: 5
+  5) Pradzios miestas: A
+  6) Keliones tikslas: E
+  7) Vaziuojantis zmogus: v
+
+Grafas:
+  51     1
+A-----D----E  
+|          |    
+| 30       | 10 
+|          |     
+B----------C
+     20
+
+ANTRA DALIS. Vykdymas
+
+Momentas 0
+    Atidaryta: A
+    Uzdaryta: B(30) D(51) 
+
+Momentas 1
+    Atidaryta: B
+    Uzdaryta: C(50) 
+
+Momentas 2
+    Atidaryta: C
+    Uzdaryta: E(60) 
+    Rastas kelias i miesta E kaina 60 Eur.
+
+Momentas 3
+    Atidaryta: D
+    Uzdaryta: E(52) 
+    Rastas kelias i miesta E kaina 52 Eur.
+
+
+TRECIA DALIS. Rezultatai
+
+  1. Pigiausias kelias: A, B, C, D, E.
+  2. Keliones kaina i miesta E yra 52 Eur.

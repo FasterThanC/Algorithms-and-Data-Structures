@@ -1,0 +1,79 @@
+PIRMA DALIS. Duomenys
+
+ 1) Uzduotis: ADS Nr.4, 4 variantas
+ 2) Studentas - Vadim Ceremisinov, 4 grupe, 1 pogrupis.
+ 3) LSP Nr. 2110545 
+ 4) Programos tikslas - rasti pigiausia keliones is vieno duoto miesto i kita duota miesta marsruta ir jo kaina
+     (Grafo realizacija gridnziama kaimynystes sarasais)
+  5) Virsuniu skaicius: 12
+  6) Pradzios miestas: A
+  7) Keliones tikslas: N
+  8) Vaziuojantis zmogus: v
+
+A----B----E----F    M----N
+|    |         |\
+|    |         | \
+|    |         |  \   
+C    D     H---G   K----L
+
+ANTRA DALIS. Vykdymas
+
+Momentas 0
+    Atidaryta: A
+    Uzdaryta: B(20) C(30) 
+    Trumpiausias kelias nerastas.
+
+Momentas 1
+    Atidaryta: B
+    Uzdaryta: D(30) E(25) 
+    Trumpiausias kelias nerastas.
+
+Momentas 2
+    Atidaryta: E
+    Uzdaryta: F(45) 
+    Trumpiausias kelias nerastas.
+
+Momentas 3
+    Atidaryta: D
+    Uzdarytu virsuniu nera.
+    Trumpiausias kelias nerastas.
+
+Momentas 4
+    Atidaryta: C
+    Uzdarytu virsuniu nera.
+    Trumpiausias kelias nerastas.
+
+Momentas 5
+    Atidaryta: F
+    Uzdaryta: G(85) K(145) 
+    Trumpiausias kelias nerastas.
+
+Momentas 6
+    Atidaryta: G
+    Uzdaryta: H(110) 
+    Trumpiausias kelias nerastas.
+
+Momentas 7
+    Atidaryta: H
+    Uzdarytu virsuniu nera.
+    Trumpiausias kelias nerastas.
+
+Momentas 8
+    Atidaryta: K
+    Uzdaryta: L(215) 
+    Trumpiausias kelias nerastas.
+
+Momentas 9
+    Atidaryta: L
+    Uzdarytu virsuniu nera.
+    Trumpiausias kelias nerastas.
+
+Momentas 10
+    Atidaryta: N
+    Uzdarytu virsuniu nera.
+    Trumpiausias kelias nerastas.
+
+
+TRECIA DALIS. Rezultatai
+
+  1. Kelio i miesta N nera
